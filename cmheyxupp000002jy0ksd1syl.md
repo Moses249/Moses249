@@ -5,6 +5,7 @@ seoDescription: "도커의 기본 개념과 왜 사용하는가에 대한 고찰
 datePublished: Fri Oct 31 2025 14:48:42 GMT+0000 (Coordinated Universal Time)
 cuid: cmheyxupp000002jy0ksd1syl
 slug: dockerconcept
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761922287091/ce524334-cfd3-4257-a09c-519feef8fe4d.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1761919570982/b0121deb-16f9-4b8e-8a94-24ff312ad358.png
 tags: docker, kubernetes, vm, 64e7luk, 7lg67ke64sk7yuw7iqk
 
