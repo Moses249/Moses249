@@ -11,10 +11,6 @@ tags: docker, kubernetes, vm, 64e7luk, 7lg67ke64sk7yuw7iqk
 
 ---
 
-#### 이 본문은 ***그림과 실습으로 배우는 도커 & 쿠버네티스*를 참고하여 만들었습니다.**
-
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1761920013753/eb8e98b3-a993-44a7-a480-34f1220bce33.png align="center")](https://product.kyobobook.co.kr/detail/S000001766500)
-
 ## 도커란?
 
 ---
@@ -55,4 +51,10 @@ tags: docker, kubernetes, vm, 64e7luk, 7lg67ke64sk7yuw7iqk
 
 ## 결론
 
+---
+
 도커는 각 프로그램별로 독립된 환경을 제공해주는 도구이다. 사용자는 서버에 올라간 도커를 통해 여러 프로그램의 환경 변수들을 제어하여 충돌을 방지한다. 도커는 이미지를 사용하여 쉽게 이동하거나 복원할 수 있기에 사용된다고 할 수 있다.
+
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1761920013753/eb8e98b3-a993-44a7-a480-34f1220bce33.png align="center")](https://product.kyobobook.co.kr/detail/S000001766500)
+
+#### 이 본문은 ***그림과 실습으로 배우는 도커 & 쿠버네티스*를 참고하여 만들었습니다.**
